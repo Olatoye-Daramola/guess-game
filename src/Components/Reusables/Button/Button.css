@@ -1,0 +1,13 @@
+button {
+  background-color: #01161e;
+  border-style: none;
+  color: #eff6e0;
+  height: 40px;
+  width: 92.5%;
+  margin-top: 2%;
+}
+
+button:active {
+  background-color: #010e14;
+  color: #eff6e0;
+}

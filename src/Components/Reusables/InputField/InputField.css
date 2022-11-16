@@ -1,0 +1,14 @@
+input {
+  height: 40px;
+  width: 90%;
+  background-color: #eff6e0;
+  margin: 2% 0;
+  border-width: 2px;
+  border-color: #01161e;
+  color: #01161e;
+}
+
+input::placeholder {
+  color: #01161e;
+  opacity: 75%;
+}
