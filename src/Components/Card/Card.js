@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import { generateRandomNumber, playGame } from "../BusinessLogic";
 import Confetti from "../Confetti";
 import { Button, InputField } from "../Reusables";
